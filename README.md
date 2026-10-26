@@ -1,0 +1,1 @@
+# 3T-P2---Generaliza-o-Especializa-o-e-os-Padr-es-de-Heran-a-Modelagem-de-Dados-e-Classes-POO-
